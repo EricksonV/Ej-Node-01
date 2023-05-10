@@ -1,4 +1,4 @@
-# NOTAS
+# Especificaciones
 
 ```
 Options:
